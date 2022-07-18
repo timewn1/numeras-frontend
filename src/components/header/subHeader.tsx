@@ -2,8 +2,8 @@ import { Link } from 'react-router-dom';
 
 export default function SubHeader() {
   return (
-    <nav className="navbar navbar-expand navbar-light bg-light p-main py-3 pb-1 x-box-shadow">
-      <div className="container">
+    <nav className="navbar fixed-top navbar-expand navbar-light bg-light p-main py-3 pb-1 x-box-shadow x-top-30">
+      <div className="container-fluid no-padding">
         <Link to="/" className="navbar-brand">
           <img src="/logo/logo.png" height="28" alt="CoolBrand" />
         </Link>
