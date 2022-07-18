@@ -9,8 +9,11 @@ $danger: #d62518;
 $light: #ffffff;
 $dark: #424242;
 $lightDark: #5d5d5d;
-$white: #ffffff;
 $black: #000000;
+$greyred: #f2f2f2;
+$greyWhite:#fefefe;
+$footer:#a0a0a0;
+$ft-white:#C9C9C9FF;
 
 //custom color to be mapped
 $accent : #da6d25;
@@ -26,8 +29,11 @@ $theme-colors: (
         light: $light,
         dark: $dark,
         light_dark:$lightDark,
-        white:$white,
         black:$black,
+        greyred:$greyred,
+        greyWhite:$greyWhite,
+        footer:$footer,
+        ftwhite:$ft-white,
   // add any additional color below
         accent: $accent,
   // now bg-accent,btn-accent,etc.. can be called

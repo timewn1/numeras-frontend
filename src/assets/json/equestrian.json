@@ -1,0 +1,22 @@
+[
+  {
+    "image" : "1.png",
+    "title": "Equestrian Syndicate Name",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue."
+  },
+  {
+    "image" : "2.png",
+    "title": "Auto Syndicate Name",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue."
+  },
+  {
+    "image" : "3.png",
+    "title": "Yacht Syndicate Name",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue."
+  },
+  {
+    "image" : "4.png",
+    "title": "Culture Syndicate Name",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue."
+  }
+]
